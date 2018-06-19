@@ -1,2 +1,0 @@
-# Webscraping
-Web scraping project
